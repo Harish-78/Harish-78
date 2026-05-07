@@ -44,25 +44,55 @@ I am a **Strategic AI Engineer and Full Stack Developer** specializing in the ra
 
 ---
 
-### 📊 GitHub Stats
+# 👨‍💻 Harish.js
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish-78&theme=radical&hide_border=false&show_icons=true" alt="Harish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-78&theme=radical&hide_border=false" alt="Harish's Streak Stats" width="48%" />
-</div>
+```javascript
+const harishChinnappan = {
+  title: [
+    "Strategic AI Engineer",
+    "Full Stack Developer",
+    "Mobile App Developer"
+  ],
 
-<br/>
+  coreStack: {
+    ai: [
+      "Vertex AI",
+      "LangChain",
+      "RAG",
+      "Prompt Engineering"
+    ],
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-78&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
+    frontend: [
+      "React.js",
+      "React Native",
+      "TailwindCSS"
+    ],
 
----
+    backend: [
+      "Node.js",
+      "Express.js",
+      "Microservices"
+    ],
 
-<div align="center">
-  <br/>
-  <b>Profile Views</b><br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Harish-78&icon=0&color=6" alt="Profile Views" />
-  </a>
-</div>
+    devOps: [
+      "GCP",
+      "Redis",
+      "Docker",
+      "CI/CD"
+    ]
+  },
+
+  currentMission:
+    "Architecting high-scalability systems & agentic workflows.",
+
+  workEthic: () => {
+    while (coffee > 0) {
+      writeCode();
+      optimizeTokens();
+      deployToProduction();
+    }
+  }
+};
+
+harishChinnappan.workEthic();
+```
