@@ -44,25 +44,17 @@ I am a **Strategic AI Engineer and Full Stack Developer** specializing in the ra
 
 ---
 
-### 🚀 Featured Projects
-
-* **AI-Powered Knowledge Assistant**: Architected an agentic assistant on GCP using LangGraph for multi-step reasoning and stateful RAG, integrating MCP multi-server adapters for real-time data connectivity.
-* **Clothing-Based E-Commerce Platform**: Engineered a high-performance MERN stack marketplace optimized for high scalability utilizing Redis, Cloudflare, JWT Auth, and Razorpay.
-* **AgriConnect (Smart Market System)**: Designed a direct farmer-buyer trade marketplace using a microservices architecture to eliminate intermediary costs.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish-78&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Harish's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harish-78&theme=radical&hide_border=false&show_icons=true" alt="Harish's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-78&theme=radical&hide_border=false" alt="Harish's Streak Stats" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-78&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-78&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
