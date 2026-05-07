@@ -43,56 +43,49 @@ I am a **Strategic AI Engineer and Full Stack Developer** specializing in the ra
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
+# 🖥️ Harish@Ubuntu:~$
 
-# 👨‍💻 Harish.js
+```bash
+harish@ubuntu:~$ whoami
+Harish Chinnappan
+Strategic AI Engineer | Full Stack Developer | Mobile App Architect
 
-```javascript
-const harishChinnappan = {
-  title: [
-    "Strategic AI Engineer",
-    "Full Stack Developer",
-    "Mobile App Developer"
-  ],
+harish@ubuntu:~$ cat current_focus.txt
 
-  coreStack: {
-    ai: [
-      "Vertex AI",
-      "LangChain",
-      "RAG",
-      "Prompt Engineering"
-    ],
+> Architecting scalable agentic workflows using LangGraph & Vertex AI
+> Building high-performance React Native + WebView ecosystems
+> Designing enterprise-grade RAG pipelines & prompt orchestration
+> Optimizing token budgets, caching layers, and AI response latency
+> Deploying resilient microservices with Docker, Redis & GCP
 
-    frontend: [
-      "React.js",
-      "React Native",
-      "TailwindCSS"
-    ],
+harish@ubuntu:~$ ping -c 5 skills.local
 
-    backend: [
-      "Node.js",
-      "Express.js",
-      "Microservices"
-    ],
+PING skills.local (127.0.0.1): 56 data bytes
+64 bytes from React_Native: icmp_seq=0 ttl=64 time=0.041 ms
+64 bytes from Generative_AI: icmp_seq=1 ttl=64 time=0.039 ms
+64 bytes from LangChain: icmp_seq=2 ttl=64 time=0.044 ms
+64 bytes from Microservices: icmp_seq=3 ttl=64 time=0.040 ms
+64 bytes from DevOps: icmp_seq=4 ttl=64 time=0.037 ms
 
-    devOps: [
-      "GCP",
-      "Redis",
-      "Docker",
-      "CI/CD"
-    ]
-  },
+--- skills.local ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
 
-  currentMission:
-    "Architecting high-scalability systems & agentic workflows.",
+harish@ubuntu:~$ sudo systemctl status mindset.service
 
-  workEthic: () => {
-    while (coffee > 0) {
-      writeCode();
-      optimizeTokens();
-      deployToProduction();
-    }
-  }
-};
+● mindset.service - Continuous Learning Engine
+     Loaded: loaded (/etc/systemd/system/mindset.service)
+     Active: active (running) since forever
+   Main PID: 1010 (growth)
+      Tasks: ∞
+     Memory: limitless
 
-harishChinnappan.workEthic();
+harish@ubuntu:~$ ./deploy_future.sh
+
+🚀 Initializing AI pipelines...
+⚡ Optimizing distributed systems...
+🧠 Training smarter workflows...
+📱 Scaling Web & Mobile experiences...
+☁️ Deploying innovation to production...
+
+[SUCCESS] Mission continues: Building the future with AI + Engineering.
 ```
