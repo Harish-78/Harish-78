@@ -19,7 +19,7 @@
 
 I am a **Strategic AI Engineer and Full Stack Developer** specializing in the rapid deployment of high-scalability systems. I have a strong background in crafting seamless mobile experiences and enterprise-grade web applications. Currently, I am deeply focused on building AI-driven solutions and architecting agentic workflows.
 
-- 🏢 Currently working as an **AI Engineer & Full Stack Developer** at *Aroopa Technologies* in Chennai.
+- 🏢 Currently working as an **AI Engineer & Full Stack Developer** in Chennai.
 - ⚙️ Architecting highly scalable backend systems and robust **Agentic Workflows** using **LangChain/LangGraph** and **Vertex AI**.
 - 🚀 Leveraging AI-integrated IDEs (Windsurf, Cursor, Claude Code) to accelerate development lifecycles.
 - 📱 Developing mission-critical mobile applications with offline capabilities using **React Native**.
